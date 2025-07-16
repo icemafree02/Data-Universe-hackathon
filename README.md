@@ -1,5 +1,5 @@
-## Data Universe Hackathon 2024
-#  Theme: Climate Change
+# Data Universe Hackathon 2024
+##  Theme: Climate Change
 
 **Project submitted to the Data Universe Final Hackathon 2024**  
 
