@@ -1,7 +1,6 @@
 # 🌫️ The Smog Effect: PM2.5, Weather, and Economic Loss in Thailand
 
 **Project submitted to the Data Universe Final Hackathon 2024**  
-**Team Name**: กรรไกรตัดเล็บ (Group 1)
 
 This project explores the relationship between **PM2.5 levels**, **weather conditions**, and **tourism-related economic loss** across Thailand between **2020 and 2023**.
 
