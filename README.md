@@ -1,4 +1,5 @@
-# 🌫️ The Smog Effect: PM2.5, Weather, and Economic Loss in Thailand
+# Data Universe Hackathon 2024
+# Theme: Climate Change
 
 **Project submitted to the Data Universe Final Hackathon 2024**  
 
